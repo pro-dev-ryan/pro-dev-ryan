@@ -16,7 +16,6 @@
 - ⚡ Fun fact **soy un fanático de los juegos**
 
 ### <details><summary>My Ethics</summary>
-
 ```javascript
 let Life = [
   "frustration",

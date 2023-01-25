@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **azizul.developer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gEeh-sdJtZCHPf62MYSO7DmOI_XBl0KZ/view?usp=sharing](https://drive.google.com/file/d/1gEeh-sdJtZCHPf62MYSO7DmOI_XBl0KZ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gEeh-sdJtZCHPf62MYSO7DmOI_XBl0KZ/view?usp=sharing)
 
-- ⚡ Fun fact **Relating sarcasm with program, makes life much easier**
+- ⚡ Fun fact **soy un fanático de los juegos**
 
-<details><summary>Let's know a bit</summary>
+<details><summary>My Ethics</summary>
 
 ```javascript
 let Life = [
@@ -47,11 +47,11 @@ output: `I write my life program with my passion`
 
 </details>
 
-### Something About Me:
+# Something About Me:
 
 - :computer: **I'm learning now:** &nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ::
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pro-dev-ryan&theme=dracula&hide_border=true&border_radius=5&mode=weekly&sideLabels=0A3235&sideNums=FF4141&currStreakLabel=282828&background=50D9DD&stroke=E0FFA91E&ring=DD342F&currStreakNum=DD2222&fire=DD2222&dates=353520)](https://git.io/streak-stats)
 

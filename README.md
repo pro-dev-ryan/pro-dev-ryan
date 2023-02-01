@@ -1,6 +1,7 @@
 ![](https://media.licdn.com/dms/image/D4E16AQG-SUw2BWfOog/profile-displaybackgroundimage-shrink_350_1400/0/1674163971399?e=1680134400&v=beta&t=tmbMtcRPqOoXYTav3IvF2e1mf0XVuhIpvlWecWURzy0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&pause=2000&color=B9DBF7&width=435&lines=Hey%2C+This+is+Ryan!;A+programming+Enthusiast;Interested+to+work+with+innovation;Willing+to+collaborate+with+team)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=25&pause=2000&color=7DCCF7&width=450&lines=This+is+Ryan;A+programming+enthusiast;Interested+to+work+with+innovation;Willing+to+collaborate+)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=pro-dev-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="pro-dev-ryan" />
 
 <p> <details><summary> <span style="font-size: 20px; font-weight: 500; color: #b9dbf7" >My Ethics</span></summary>

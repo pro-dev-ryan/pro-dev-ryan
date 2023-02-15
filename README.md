@@ -41,7 +41,8 @@ output: `I write my life program with my passion`
 
 - :computer: **I'm learning now:** &nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ::
+- 📑:I'm in [![]()](https://www.coderbyte.com/profile/Devryan)
+- 📑 I'm in [CoderByte](https://www.coderbyte.com/profile/Devryan)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pro-dev-ryan&theme=dracula&hide_border=true&border_radius=5&mode=weekly&sideLabels=0A3235&sideNums=FF4141&currStreakLabel=282828&background=50D9DD&stroke=E0FFA91E&ring=DD342F&currStreakNum=DD2222&fire=DD2222&dates=353520)](https://git.io/streak-stats)
 

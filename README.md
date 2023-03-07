@@ -98,7 +98,7 @@ output: `I write my life program with my passion`
  </a>
  <!-- Photoshop -->
  <a
-    href="https://git-scm.com/"
+    href="https://adobe.com/"
     target="_blank" rel="noreferrer">
     <img style="padding-left: 10px;"
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="git"
@@ -116,7 +116,7 @@ output: `I write my life program with my passion`
  </a>
  <!-- Illustrator -->
  <a
-    href="https://git-scm.com/"
+    href="https://adobe.com/"
     target="_blank" rel="noreferrer">
     <img style="padding-left: 10px;"
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" alt="git"

@@ -125,7 +125,7 @@ output: `I write my life program with my passion`
  </a>
  <!-- GitHub -->
  <a
-    href="https://git-scm.com/"
+    href="https://github.com/"
     target="_blank" rel="noreferrer">
     <img style="padding-left: 10px;"
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="git"

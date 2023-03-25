@@ -44,6 +44,7 @@ output: `I write my life program with my passion`
 - 📑:I'm in [Hackerrank](https://www.hackerrank.com/@azizul_developer)
 - 📑:I'm in [LeetCode](https://leetcode.com/pro-dev-ryan/)
 - 📑:I'm in [Discord](https://discord.gg/#6183)
+- 📑:I'm in [Edabit](https://edabit.com/user/xvRYyxg5T6sDpv6Pm)
 - 📑 I'm in [CoderByte](https://www.coderbyte.com/profile/Devryan)
 - 📑 I'm in Codecheff <a href="https://www.codechef.com/users/az_ryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="az_ryan" height="30" width="40" /></a>
 

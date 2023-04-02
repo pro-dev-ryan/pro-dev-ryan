@@ -42,7 +42,7 @@ output: `I write my life program with my passion`
 - :computer: **I'm learning now:** &nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - 📑:I'm in [Hackerrank](https://www.hackerrank.com/@azizul_developer)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@azizul_developer" height="30" width="40" />
-- 📑:I'm in [LeetCode](https://leetcode.com/pro-dev-ryan/)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pro-dev-ryan/" height="30" width="40" />
+- 📑:I'm in [LeetCode](https://leetcode.com/pro-dev-ryan/)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pro-dev-ryan/" height="20" width="30" />
 - 📑:I'm in [Discord](https://discord.gg/#6183)
 - 📑:I'm in [Edabit](https://edabit.com/user/xvRYyxg5T6sDpv6Pm)
 - 📑 I'm in [CoderByte](https://www.coderbyte.com/profile/Devryan)

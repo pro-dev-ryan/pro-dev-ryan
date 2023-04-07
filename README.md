@@ -44,7 +44,7 @@ output: `I write my life program with my passion`
 - 📑:I'm in [Hackerrank](https://www.hackerrank.com/@azizul_developer)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@azizul_developer" height="30" width="40" />
 - 📑:I'm in [LeetCode](https://leetcode.com/pro-dev-ryan/)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pro-dev-ryan/" height="20" width="30" />
 - 📑:I'm in [Discord](https://discord.gg/#6183)<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6183" height="30" width="40" />
-- 📑:I'm in [Edabit](https://edabit.com/user/xvRYyxg5T6sDpv6Pm) <img align="center" width="20" height="20" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2020/04/20165342/pPOnSc6C_400x400.png"/>
+- 📑:I'm in [Edabit](https://edabit.com/user/xvRYyxg5T6sDpv6Pm) <img align="center" width="20" height="10" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2020/04/20165342/pPOnSc6C_400x400.png"/>
 - 📑 I'm in [CoderByte](https://www.coderbyte.com/profile/Devryan)
 - 📑 I'm in Codecheff <a href="https://www.codechef.com/users/az_ryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="az_ryan" height="30" width="40" /></a>
 
